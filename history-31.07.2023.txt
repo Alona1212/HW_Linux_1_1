@@ -1,0 +1,15 @@
+   0 ghghghg clear
+   1 clean
+   2 clear
+   3 date
+   4  clear
+   5 mkdir /tmp/Alona
+   6 touch /tmp/Alona/test2.txt
+   7 cat /root/readme.txt>> /tmp/Alona/test2.txt
+   8 cat /tmp/Alona/test2.txt
+   9 date>> /tmp/Alona/test2.txt
+  10 mkdir /var/temp
+  11 mv /tmp/Alona/test2.txt /var/temp
+  12 history
+  13 history >history-31.07.2023
+  14 history >history-31.07.2023.txt
